@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "KHAN-MD~6jRQWYoD#p2xZPqBrJp737_b_75VD2D5jK6tu9VQJ0DYmbixxy68"
     },  
     
     "STICKER_NAME": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "RAJAB_MD"
 
       }, 
 
